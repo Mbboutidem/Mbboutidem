@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Mb,
+
+## Areas of expertise
+* Front-end development
+* Backend
+* Angular.js
+* Cloud computing
 
 <!--
 **Mbboutidem/Mbboutidem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
