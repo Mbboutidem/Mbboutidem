@@ -1,11 +1,18 @@
-### Hi there 👋 I'm Mb,
+### Hi there 👋 I'm Mb,👨🏻‍💻
 
-## Areas of expertise
+## Areas of Expertise
 * Front-end development
 * Backend
 * Angular.js
+* JavaScript | HTML5 | CSS
 * Cloud computing
 
+## Hobbies & Interests ⚡
+* Travelling
+* Music
+* Reading
+* Computing
+* Football
 <!--
 **Mbboutidem/Mbboutidem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
