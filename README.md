@@ -7,6 +7,7 @@ I love building software applications. While hard engineering issues are often i
 * Front-end development
 * Backend
 * Angular.js
+* Ionic
 * JavaScript | HTML5 | CSS
 * Cloud computing
 
