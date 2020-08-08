@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Mb,👨🏻‍💻
 
-## Areas of Expertise
+I love building software applications. While hard engineering issues are often intrinstically fun to tackle, my priority is to resolving customer issues with business justification. I like coding 💻 and I'm passionate about making robust SW applications.
+🙌 
+
+## Areas of Expertise 🌱
 * Front-end development
 * Backend
 * Angular.js
